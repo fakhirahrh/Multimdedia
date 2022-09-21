@@ -1,11 +1,11 @@
-# Multimdedia
+# Multimedia
 Nama : Fakhirah Rodhiyah, NPM : 2135018
 
 tombol A
 ![TOMBOL A fakhirah r](https://user-images.githubusercontent.com/100103718/191401053-ec2b08a5-4bcc-4f3d-bdca-dde12c01243b.png)
 
 tombol B
-![TOMBOL B fakhirah r](https://user-images.githubusercontent.com/100103718/191401497-6d86fa0e-5c48-405a-a58d-4f698552a686.png)
+![image](https://user-images.githubusercontent.com/100103718/191401925-7bc42ec1-daff-46fe-a0ed-8e4fe71d0d0c.png)
 
 
 tombol C
